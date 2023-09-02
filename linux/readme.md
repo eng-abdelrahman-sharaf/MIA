@@ -1,6 +1,7 @@
 # linux docs
 
-making mia file and change working directory to it 
+making mia file and listing all files and folder (including hidden)  change working directory to it 
+
 
     mkdir mia
     cd mia 
@@ -15,7 +16,7 @@ edit file.txt
 
 print the content of file.txt
 
-    cat file.txt | clip
+    cat file.txt
 
 clear terminal screen
 
